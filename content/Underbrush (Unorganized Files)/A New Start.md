@@ -4,7 +4,7 @@ draft: false
 tags:
   -
 ---
-This will take you back to [[The Index|The Index]].
+This will take you back to [[- The Grand Index -|The Index]].
 
 However, there is also...
 [[There Is An Opening In The Forest]]

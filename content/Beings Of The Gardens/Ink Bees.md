@@ -1,12 +1,9 @@
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: Ink Bees
 draft: false
 tags:
-  - 
+  -
 ---
- 
-
-
 A type of bee that makes its hive within books.
 
 Often found in old libraries, ancient archives, and abandoned bookstores, an inkbee hive will range from a single tome, to whole shelves, to entire bookcases. Their buzzing resonates high and low, creating a type of echolocation that they have developed from living in dark places, where the Light cannot guide them like other bee variants.
