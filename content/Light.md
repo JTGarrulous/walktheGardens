@@ -1,8 +1,9 @@
 ---
-title: How to publish Obsidian notes with Quartz on GitHub Pages
+title: Light
 draft: false
 tags:
   - 
 aliases:
   - be
 ---
+TBC
