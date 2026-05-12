@@ -4,7 +4,7 @@ draft: false
 tags:
   -
 ---
-
+https://jtgarrulous.github.io/walktheGardens/A-New-Start
 
 This will take you back to [[The Index|The Index]].
 
