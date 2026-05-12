@@ -12,6 +12,6 @@ You are welcome here, in my digital garden, which serves as a grounds where I re
 
 But that does not mean that we do not try. Right?
 
-For now, I would recommend started at the [[Trailhead -- Source]]. 
+For now, I would recommend you start at the [[Trailhead -- Source]]. 
 
 See you around, Traveler.
