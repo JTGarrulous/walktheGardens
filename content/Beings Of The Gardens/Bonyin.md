@@ -11,5 +11,5 @@ tags:
 - These are used as cattle in some Gardens.
 	- Certain followers of the Dwelling that do not eat meat sometimes are okay with using these layers in their meals, so long as the Bonyins are cared for properly, akin to how vegetarians might consume dairy or eggs, but vegans might not.
 
-Sister creature to the [[Cordola]]. 
+Companion creature to the [[Cordola]]. 
 

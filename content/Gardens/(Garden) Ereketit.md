@@ -4,8 +4,7 @@ draft: false
 tags:
   -
 ---
- 
-# Garden Template 
+
 
 Small population, less than 5,000 Folkish inhabitants. Garden is circular and flat with no underside, humid conditions, lush growth and tall trees with sparse, yet large, sturdy branches.
 The [[Beings]] known as [[Diffinera]] roam the jungle laden landscape, hunting for their main prey, which is anything that carries Memory within them.
