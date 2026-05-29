@@ -20,7 +20,7 @@ Husk Ecosystem Type: Okwan Unique
 
 Rooted Hunger: [[Hunger of Power]]
 
-[[TaFont]] Names: Yakak, Krassgahhinan
+[[TaFont]] Names: Yakak, Krassgahhinan, Fendir
 
 ---
 
